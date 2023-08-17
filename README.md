@@ -1,5 +1,5 @@
 # vue-master
-使用开源vue项目进行接口自动化测试，包括测试任务调试、测试报告与测试数据可视化操作等，前端vue，后端springboot，，对接的后台功能是 https://github.com/Cowliontiger/IdeaProject <br>
+使用开源vue项目进行接口自动化测试，包括测试任务调试、测试报告与测试数据可视化操作等，前端vue，后端springboot，对接的后台功能是 https://github.com/Cowliontiger/IdeaProject <br>
 src_components_tags_tags.vue<br>
 src_components_head_head.vue<br>
 src_components_sidebar_sidebar.vue<br>
